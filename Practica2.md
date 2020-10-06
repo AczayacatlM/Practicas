@@ -70,9 +70,9 @@ Escribe en la siguiente sección, para el conjunto de entradas indicado, el resu
 
 |x|y|resultado|
 |-|-|-|
-|2|5|**Tu respuesta aquí**|
-|3|3|**Tu respuesta aquí**|
-|10|8|**Tu respuesta aquí**|
+|2|5|**32**|
+|3|3|**27**|
+|10|8|**100000000**|
 
 
 ##### Complejidad
